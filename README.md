@@ -1,6 +1,7 @@
 ## 说明
 ### 来源：
-该项目主要是修改自：https://github.com/zhanxiaokai/Android-AudioPlayer，非常感谢原作者的奉献！
+该项目主要是修改自：https://github.com/zhanxiaokai/Android-AudioPlayer
+非常感谢原作者的奉献！
 ### 目的：
 原项目是Eclipse工程，现在改由AndroidStudio工程，并且C代码由CMake进行编译
 ### 改动
