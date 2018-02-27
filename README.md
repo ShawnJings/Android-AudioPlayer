@@ -1,9 +1,9 @@
-##说明
-###来源：
+## 说明
+### 来源：
 该项目主要是修改自：https://github.com/zhanxiaokai/Android-AudioPlayer，非常感谢原作者的奉献！
-###目的：
+### 目的：
 原项目是Eclipse工程，现在改由AndroidStudio工程，并且C代码由CMake进行编译
-###改动
+### 改动
 1. Android.mk文件修改为CMakeLists.txt
 2. compileSdkVersion修改为25，增加了读取SD卡的权限请求
 3. 音频文件放在SD卡的根目录下
