@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VoicePlay</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="audio_player_audiotrack">AudioPlayer AudioTrack Impl</string>
+    <string name="opensl_es_audiotrack">AudioPlayer OpenSL ES Impl</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
